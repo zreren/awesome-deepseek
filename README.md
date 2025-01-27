@@ -13,6 +13,8 @@ A curated list of awesome resources, tools, and applications related to DeepSeek
   - [Papers](#papers)
     - [Foundation Models](#foundation-models)
     - [Code Models](#code-models)
+  - [Usage Guides](#usage-guides)
+  - [Integrations](#integrations)
   - [Getting Started](#getting-started)
   - [Community](#community)
 
@@ -36,6 +38,12 @@ DeepSeek is a family of powerful AI models developed for various tasks including
 
 ### Code Models
 - [DeepSeek-Coder: When the Large Language Model Meets Programming](https://arxiv.org/abs/2401.14196) - In-depth exploration of DeepSeek Coder's technical details and performance
+
+## Usage Guides
+- [DeepSeek Best Practices and Prompting Guide](https://mp.weixin.qq.com/s/qy25l_zj0HRDTt4vQh8zmA) - Comprehensive guide on effective prompting and usage patterns
+
+## Integrations
+- [DeepSeek-Claude](https://github.com/getasterisk/deepclaude) - Integration of DeepSeek with Claude for enhanced capabilities
 
 ## Getting Started
 

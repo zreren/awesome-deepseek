@@ -42,6 +42,7 @@ DeepSeek 是一系列强大的 AI 模型家族，专注于代码生成、自然�
 
 ## 使用指南
 - [DeepSeek 最佳实践与提示词指南](https://mp.weixin.qq.com/s/qy25l_zj0HRDTt4vQh8zmA) - 全面的提示词编写和使用模式指南
+- [看好了，这才是DeepSeek的正确用法！不要再写传统的提示词了](https://www.opacity.ink/blog/deepseek-prompt)
 
 ## 集成方案
 - [DeepSeek-Claude](https://github.com/getasterisk/deepclaude) - DeepSeek 与 Claude 的集成增强方案

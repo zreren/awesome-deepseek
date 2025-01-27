@@ -22,6 +22,7 @@ DeepSeek is a family of powerful AI models developed for various tasks including
 
 ## Models
 
+- **R1 Model Download**: https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d 
 - **DeepSeek Coder**: A code generation model trained on high-quality code data
 - **DeepSeek LLM**: Large language models for general-purpose tasks
 - **DeepSeek MoE**: Mixture of Experts models for enhanced performance

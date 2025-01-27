@@ -41,7 +41,7 @@ DeepSeek is a family of powerful AI models developed for various tasks including
 
 ## Usage Guides
 - [DeepSeek Best Practices and Prompting Guide](https://mp.weixin.qq.com/s/qy25l_zj0HRDTt4vQh8zmA) - Comprehensive guide on effective prompting and usage patterns
-- [Look carefully, this is the correct way to use DeepSeek! Stop writing traditional prompts!](https://www.opacity.ink/blog/en/deepseek-prompt)
+- [Look carefully, this is the correct way to use DeepSeek! Stop writing traditional prompts!](https://www.opacity.ink/en/blog/deepseek-prompt)
 
 ## Integrations
 - [DeepSeek-Claude](https://github.com/getasterisk/deepclaude) - Integration of DeepSeek with Claude for enhanced capabilities
